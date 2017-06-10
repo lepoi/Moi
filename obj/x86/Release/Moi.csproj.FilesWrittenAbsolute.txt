@@ -1,0 +1,7 @@
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Release/Moi.gtk-gui.gui.stetic
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Release/Moi.Selection_012.png
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Release/Moi.exe.config
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Release/Moi.exe
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Release/Moi.exe
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Release/MySql.Data.dll

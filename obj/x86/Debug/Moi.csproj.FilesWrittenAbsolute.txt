@@ -1,0 +1,10 @@
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/Moi.gtk-gui.gui.stetic
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Debug/MySql.Data.dll
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Debug/Moi.exe.config
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Debug/Moi.exe.mdb
+/home/poi/Documents/MonoDevelop/Projects/Moi/bin/Debug/Moi.exe
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/Moi.exe
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/Moi.exe.mdb
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/Moi.Selection_012.png
+/home/poi/Documents/MonoDevelop/Projects/Moi/obj/x86/Debug/Moi.red_circle.png
